@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "data.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/dev/trading"
+	],
+	"file_history":
+	[
+		"/C/Users/user/Downloads/targets.txt",
+		"/C/Users/user/Downloads/aircrack-ng-1.5.2-win/autogen.sh",
+		"/C/Users/user/Desktop/Upwork/dbdash/config.json",
+		"/D/New folder/back.exe.log",
+		"/C/Users/user/Downloads/get-pip.py",
+		"/C/Users/user/Downloads/amass_3.0.3_windows_amd64/domains.txt",
+		"/C/Users/user/Downloads/klumsden-twilio-caller (1)/infinitet3ch-klumsden930-twilio-4e32e4be7adb/defines.php",
+		"/C/Users/user/Downloads/klumsden-twilio-caller (1)/infinitet3ch-klumsden930-twilio-4e32e4be7adb/auth/service-account-credentials.json",
+		"/C/Users/user/Desktop/Upwork/caller/numbers.csv",
+		"/C/Users/user/Desktop/pentest-scripts/drupal-targets",
+		"/C/Users/user/Downloads/46459 (1).py",
+		"/C/Users/user/Desktop/pentest-scripts/drupa.sh",
+		"/C/Users/user/gammurc",
+		"/C/Users/user/smsdrc",
+		"/C/Users/user/Desktop/Upwork/shopifyhawk/data/H Mappingv2.yaml",
+		"/C/Users/user/Desktop/Upwork/shopifyhawk/data/cars_data2.json",
+		"/D/hierarchy.txt",
+		"/D/New folder/back.py",
+		"/D/New folder/setup.py",
+		"/C/Users/user/Downloads/PC2_excel worksheet/config.json",
+		"/E/New folder/Default.kdbx"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\.ph$",
+			"\\t+.+$",
+			"\\s+.+$",
+			"\\s+.+",
+			"Universa",
+			"Univer",
+			"back",
+			"\\s+/.+",
+			"\\s/.+"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".ph/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "data.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trading.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

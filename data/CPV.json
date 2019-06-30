@@ -1,0 +1,3266 @@
+[
+ {
+  "OPEN": 1.1,
+  "VALUE": 2200.0,
+  "CLOSE": 1.1,
+  "CHART_DATE": "Sep 22, 2009 00:00:00",
+  "HIGH": 1.1,
+  "LOW": 1.1
+ },
+ {
+  "OPEN": 1.64,
+  "VALUE": 1640.0,
+  "CLOSE": 1.64,
+  "CHART_DATE": "Oct 09, 2009 00:00:00",
+  "HIGH": 1.64,
+  "LOW": 1.64
+ },
+ {
+  "OPEN": 1.9,
+  "VALUE": 1900.0,
+  "CLOSE": 1.9,
+  "CHART_DATE": "Oct 15, 2009 00:00:00",
+  "HIGH": 1.9,
+  "LOW": 1.9
+ },
+ {
+  "OPEN": 1.9,
+  "VALUE": 7520.0,
+  "CLOSE": 1.86,
+  "CHART_DATE": "Nov 03, 2009 00:00:00",
+  "HIGH": 1.9,
+  "LOW": 1.86
+ },
+ {
+  "OPEN": 1.92,
+  "VALUE": 9600.0,
+  "CLOSE": 1.92,
+  "CHART_DATE": "Jan 04, 2010 00:00:00",
+  "HIGH": 1.92,
+  "LOW": 1.92
+ },
+ {
+  "OPEN": 1.92,
+  "VALUE": 9600.0,
+  "CLOSE": 1.92,
+  "CHART_DATE": "Jan 05, 2010 00:00:00",
+  "HIGH": 1.92,
+  "LOW": 1.92
+ },
+ {
+  "OPEN": 1.92,
+  "VALUE": 28700.0,
+  "CLOSE": 1.9,
+  "CHART_DATE": "Jan 06, 2010 00:00:00",
+  "HIGH": 1.92,
+  "LOW": 1.9
+ },
+ {
+  "OPEN": 1.7,
+  "VALUE": 1365100.0,
+  "CLOSE": 1.7,
+  "CHART_DATE": "Feb 09, 2010 00:00:00",
+  "HIGH": 1.7,
+  "LOW": 1.7
+ },
+ {
+  "OPEN": 1.86,
+  "VALUE": 638140.0,
+  "CLOSE": 1.7,
+  "CHART_DATE": "Feb 11, 2010 00:00:00",
+  "HIGH": 1.86,
+  "LOW": 1.7
+ },
+ {
+  "OPEN": 1.7,
+  "VALUE": 369000.0,
+  "CLOSE": 1.76,
+  "CHART_DATE": "Apr 20, 2010 00:00:00",
+  "HIGH": 1.76,
+  "LOW": 1.7
+ },
+ {
+  "OPEN": 1.72,
+  "VALUE": 17200.0,
+  "CLOSE": 1.72,
+  "CHART_DATE": "Apr 30, 2010 00:00:00",
+  "HIGH": 1.72,
+  "LOW": 1.72
+ },
+ {
+  "OPEN": 1.72,
+  "VALUE": 17200.0,
+  "CLOSE": 1.72,
+  "CHART_DATE": "May 05, 2010 00:00:00",
+  "HIGH": 1.72,
+  "LOW": 1.72
+ },
+ {
+  "OPEN": 1.6,
+  "VALUE": 8000.0,
+  "CLOSE": 1.6,
+  "CHART_DATE": "May 24, 2010 00:00:00",
+  "HIGH": 1.6,
+  "LOW": 1.6
+ },
+ {
+  "OPEN": 1.7,
+  "VALUE": 8500.0,
+  "CLOSE": 1.7,
+  "CHART_DATE": "Jul 08, 2010 00:00:00",
+  "HIGH": 1.7,
+  "LOW": 1.7
+ },
+ {
+  "OPEN": 1.88,
+  "VALUE": 93700.0,
+  "CLOSE": 1.82,
+  "CHART_DATE": "Sep 20, 2010 00:00:00",
+  "HIGH": 1.88,
+  "LOW": 1.82
+ },
+ {
+  "OPEN": 1.72,
+  "VALUE": 6880.0,
+  "CLOSE": 1.72,
+  "CHART_DATE": "Sep 21, 2010 00:00:00",
+  "HIGH": 1.72,
+  "LOW": 1.72
+ },
+ {
+  "OPEN": 1.9,
+  "VALUE": 190000.0,
+  "CLOSE": 1.9,
+  "CHART_DATE": "Sep 24, 2010 00:00:00",
+  "HIGH": 1.9,
+  "LOW": 1.9
+ },
+ {
+  "OPEN": 1.9,
+  "VALUE": 3046400.0,
+  "CLOSE": 1.93,
+  "CHART_DATE": "Sep 28, 2010 00:00:00",
+  "HIGH": 1.93,
+  "LOW": 1.9
+ },
+ {
+  "OPEN": 1.93,
+  "VALUE": 1006250.0,
+  "CLOSE": 1.84,
+  "CHART_DATE": "Sep 29, 2010 00:00:00",
+  "HIGH": 2.0,
+  "LOW": 1.84
+ },
+ {
+  "OPEN": 1.85,
+  "VALUE": 127650.0,
+  "CLOSE": 1.85,
+  "CHART_DATE": "Sep 30, 2010 00:00:00",
+  "HIGH": 1.85,
+  "LOW": 1.85
+ },
+ {
+  "OPEN": 1.85,
+  "VALUE": 325600.0,
+  "CLOSE": 1.85,
+  "CHART_DATE": "Oct 05, 2010 00:00:00",
+  "HIGH": 1.85,
+  "LOW": 1.85
+ },
+ {
+  "OPEN": 1.8,
+  "VALUE": 18000.0,
+  "CLOSE": 1.8,
+  "CHART_DATE": "Oct 07, 2010 00:00:00",
+  "HIGH": 1.8,
+  "LOW": 1.8
+ },
+ {
+  "OPEN": 2.0,
+  "VALUE": 601000.0,
+  "CLOSE": 1.85,
+  "CHART_DATE": "Oct 18, 2010 00:00:00",
+  "HIGH": 2.0,
+  "LOW": 1.85
+ },
+ {
+  "OPEN": 1.85,
+  "VALUE": 370000.0,
+  "CLOSE": 1.85,
+  "CHART_DATE": "Oct 19, 2010 00:00:00",
+  "HIGH": 1.85,
+  "LOW": 1.85
+ },
+ {
+  "OPEN": 1.95,
+  "VALUE": 117000.0,
+  "CLOSE": 1.95,
+  "CHART_DATE": "Oct 28, 2010 00:00:00",
+  "HIGH": 1.95,
+  "LOW": 1.95
+ },
+ {
+  "OPEN": 2.0,
+  "VALUE": 200000.0,
+  "CLOSE": 2.0,
+  "CHART_DATE": "Nov 08, 2010 00:00:00",
+  "HIGH": 2.0,
+  "LOW": 2.0
+ },
+ {
+  "OPEN": 1.97,
+  "VALUE": 793000.0,
+  "CLOSE": 1.99,
+  "CHART_DATE": "Nov 09, 2010 00:00:00",
+  "HIGH": 1.99,
+  "LOW": 1.97
+ },
+ {
+  "OPEN": 1.99,
+  "VALUE": 995000.0,
+  "CLOSE": 1.99,
+  "CHART_DATE": "Nov 18, 2010 00:00:00",
+  "HIGH": 1.99,
+  "LOW": 1.99
+ },
+ {
+  "OPEN": 1.99,
+  "VALUE": 39800.0,
+  "CLOSE": 1.99,
+  "CHART_DATE": "Nov 22, 2010 00:00:00",
+  "HIGH": 1.99,
+  "LOW": 1.99
+ },
+ {
+  "OPEN": 1.99,
+  "VALUE": 11940.0,
+  "CLOSE": 1.99,
+  "CHART_DATE": "Nov 23, 2010 00:00:00",
+  "HIGH": 1.99,
+  "LOW": 1.99
+ },
+ {
+  "OPEN": 1.99,
+  "VALUE": 19900.0,
+  "CLOSE": 1.99,
+  "CHART_DATE": "Nov 24, 2010 00:00:00",
+  "HIGH": 1.99,
+  "LOW": 1.99
+ },
+ {
+  "OPEN": 1.99,
+  "VALUE": 59700.0,
+  "CLOSE": 1.99,
+  "CHART_DATE": "Dec 02, 2010 00:00:00",
+  "HIGH": 1.99,
+  "LOW": 1.99
+ },
+ {
+  "OPEN": 2.0,
+  "VALUE": 16000.0,
+  "CLOSE": 2.0,
+  "CHART_DATE": "Dec 22, 2010 00:00:00",
+  "HIGH": 2.0,
+  "LOW": 2.0
+ },
+ {
+  "OPEN": 2.1,
+  "VALUE": 126000.0,
+  "CLOSE": 2.1,
+  "CHART_DATE": "Jan 10, 2011 00:00:00",
+  "HIGH": 2.1,
+  "LOW": 2.1
+ },
+ {
+  "OPEN": 2.1,
+  "VALUE": 105000.0,
+  "CLOSE": 2.1,
+  "CHART_DATE": "Jan 12, 2011 00:00:00",
+  "HIGH": 2.1,
+  "LOW": 2.1
+ },
+ {
+  "OPEN": 1.6,
+  "VALUE": 9600.0,
+  "CLOSE": 1.6,
+  "CHART_DATE": "Jan 28, 2011 00:00:00",
+  "HIGH": 1.6,
+  "LOW": 1.6
+ },
+ {
+  "OPEN": 1.6,
+  "VALUE": 9600.0,
+  "CLOSE": 1.6,
+  "CHART_DATE": "Jan 28, 2011 00:00:00",
+  "HIGH": 1.6,
+  "LOW": 1.6
+ },
+ {
+  "OPEN": 1.9,
+  "VALUE": 76000.0,
+  "CLOSE": 1.9,
+  "CHART_DATE": "Feb 14, 2011 00:00:00",
+  "HIGH": 1.9,
+  "LOW": 1.9
+ },
+ {
+  "OPEN": 1.92,
+  "VALUE": 230400.0,
+  "CLOSE": 1.92,
+  "CHART_DATE": "Mar 08, 2011 00:00:00",
+  "HIGH": 1.92,
+  "LOW": 1.92
+ },
+ {
+  "OPEN": 1.92,
+  "VALUE": 230400.0,
+  "CLOSE": 1.92,
+  "CHART_DATE": "Mar 08, 2011 00:00:00",
+  "HIGH": 1.92,
+  "LOW": 1.92
+ },
+ {
+  "OPEN": 1.96,
+  "VALUE": 205800.0,
+  "CLOSE": 1.96,
+  "CHART_DATE": "Mar 11, 2011 00:00:00",
+  "HIGH": 1.96,
+  "LOW": 1.96
+ },
+ {
+  "OPEN": 1.96,
+  "VALUE": 205800.0,
+  "CLOSE": 1.96,
+  "CHART_DATE": "Mar 11, 2011 00:00:00",
+  "HIGH": 1.96,
+  "LOW": 1.96
+ },
+ {
+  "OPEN": 1.98,
+  "VALUE": 39600.0,
+  "CLOSE": 1.98,
+  "CHART_DATE": "Mar 16, 2011 00:00:00",
+  "HIGH": 1.98,
+  "LOW": 1.98
+ },
+ {
+  "OPEN": 2.0,
+  "VALUE": 60000.0,
+  "CLOSE": 2.0,
+  "CHART_DATE": "Mar 17, 2011 00:00:00",
+  "HIGH": 2.0,
+  "LOW": 2.0
+ },
+ {
+  "OPEN": 1.9,
+  "VALUE": 91300.0,
+  "CLOSE": 2.0,
+  "CHART_DATE": "Mar 25, 2011 00:00:00",
+  "HIGH": 2.0,
+  "LOW": 1.9
+ },
+ {
+  "OPEN": 2.05,
+  "VALUE": 215250.0,
+  "CLOSE": 2.05,
+  "CHART_DATE": "Apr 01, 2011 00:00:00",
+  "HIGH": 2.05,
+  "LOW": 2.05
+ },
+ {
+  "OPEN": 2.1,
+  "VALUE": 4200.0,
+  "CLOSE": 2.1,
+  "CHART_DATE": "Apr 05, 2011 00:00:00",
+  "HIGH": 2.1,
+  "LOW": 2.1
+ },
+ {
+  "OPEN": 2.1,
+  "VALUE": 31500.0,
+  "CLOSE": 2.1,
+  "CHART_DATE": "Apr 06, 2011 00:00:00",
+  "HIGH": 2.1,
+  "LOW": 2.1
+ },
+ {
+  "OPEN": 2.04,
+  "VALUE": 207000.0,
+  "CLOSE": 2.1,
+  "CHART_DATE": "Apr 07, 2011 00:00:00",
+  "HIGH": 2.1,
+  "LOW": 2.04
+ },
+ {
+  "OPEN": 1.92,
+  "VALUE": 190080.0,
+  "CLOSE": 1.92,
+  "CHART_DATE": "Apr 12, 2011 00:00:00",
+  "HIGH": 1.92,
+  "LOW": 1.92
+ },
+ {
+  "OPEN": 1.94,
+  "VALUE": 100880.0,
+  "CLOSE": 1.94,
+  "CHART_DATE": "Apr 13, 2011 00:00:00",
+  "HIGH": 1.94,
+  "LOW": 1.94
+ },
+ {
+  "OPEN": 1.94,
+  "VALUE": 9700.0,
+  "CLOSE": 1.94,
+  "CHART_DATE": "Apr 15, 2011 00:00:00",
+  "HIGH": 1.94,
+  "LOW": 1.94
+ },
+ {
+  "OPEN": 2.0,
+  "VALUE": 383010.0,
+  "CLOSE": 2.15,
+  "CHART_DATE": "Apr 29, 2011 00:00:00",
+  "HIGH": 2.15,
+  "LOW": 2.0
+ },
+ {
+  "OPEN": 2.18,
+  "VALUE": 219000.0,
+  "CLOSE": 2.2,
+  "CHART_DATE": "May 02, 2011 00:00:00",
+  "HIGH": 2.2,
+  "LOW": 2.18
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 7500.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "May 03, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 5000.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "May 12, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.45,
+  "VALUE": 73500.0,
+  "CLOSE": 2.45,
+  "CHART_DATE": "May 31, 2011 00:00:00",
+  "HIGH": 2.45,
+  "LOW": 2.45
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 350000.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Jun 01, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.6,
+  "VALUE": 117000.0,
+  "CLOSE": 2.6,
+  "CHART_DATE": "Jun 06, 2011 00:00:00",
+  "HIGH": 2.6,
+  "LOW": 2.6
+ },
+ {
+  "OPEN": 2.4,
+  "VALUE": 115200.0,
+  "CLOSE": 2.4,
+  "CHART_DATE": "Jun 09, 2011 00:00:00",
+  "HIGH": 2.4,
+  "LOW": 2.4
+ },
+ {
+  "OPEN": 2.22,
+  "VALUE": 232220.0,
+  "CLOSE": 2.3,
+  "CHART_DATE": "Jun 21, 2011 00:00:00",
+  "HIGH": 2.3,
+  "LOW": 2.22
+ },
+ {
+  "OPEN": 2.3,
+  "VALUE": 230000.0,
+  "CLOSE": 2.3,
+  "CHART_DATE": "Jun 22, 2011 00:00:00",
+  "HIGH": 2.3,
+  "LOW": 2.3
+ },
+ {
+  "OPEN": 2.6,
+  "VALUE": 52000.0,
+  "CLOSE": 2.6,
+  "CHART_DATE": "Jun 28, 2011 00:00:00",
+  "HIGH": 2.6,
+  "LOW": 2.6
+ },
+ {
+  "OPEN": 2.6,
+  "VALUE": 240400.0,
+  "CLOSE": 2.3,
+  "CHART_DATE": "Jun 29, 2011 00:00:00",
+  "HIGH": 2.6,
+  "LOW": 2.3
+ },
+ {
+  "OPEN": 2.3,
+  "VALUE": 27600.0,
+  "CLOSE": 2.3,
+  "CHART_DATE": "Jun 30, 2011 00:00:00",
+  "HIGH": 2.3,
+  "LOW": 2.3
+ },
+ {
+  "OPEN": 2.4,
+  "VALUE": 120000.0,
+  "CLOSE": 2.4,
+  "CHART_DATE": "Jul 06, 2011 00:00:00",
+  "HIGH": 2.4,
+  "LOW": 2.4
+ },
+ {
+  "OPEN": 2.4,
+  "VALUE": 69600.0,
+  "CLOSE": 2.4,
+  "CHART_DATE": "Jul 13, 2011 00:00:00",
+  "HIGH": 2.4,
+  "LOW": 2.4
+ },
+ {
+  "OPEN": 2.4,
+  "VALUE": 4800.0,
+  "CLOSE": 2.4,
+  "CHART_DATE": "Jul 18, 2011 00:00:00",
+  "HIGH": 2.4,
+  "LOW": 2.4
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 50000.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Jul 29, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 150000.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Aug 03, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 262500.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Aug 05, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 37500.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Aug 08, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.3,
+  "VALUE": 254600.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Aug 09, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.3
+ },
+ {
+  "OPEN": 2.3,
+  "VALUE": 2300.0,
+  "CLOSE": 2.3,
+  "CHART_DATE": "Aug 16, 2011 00:00:00",
+  "HIGH": 2.3,
+  "LOW": 2.3
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 250000.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Aug 17, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.32,
+  "VALUE": 113680.0,
+  "CLOSE": 2.32,
+  "CHART_DATE": "Aug 19, 2011 00:00:00",
+  "HIGH": 2.32,
+  "LOW": 2.32
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 207500.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Aug 24, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 75000.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Aug 31, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 12500.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Sep 01, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 50000.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Sep 16, 2011 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.32,
+  "VALUE": 4640.0,
+  "CLOSE": 2.32,
+  "CHART_DATE": "Sep 21, 2011 00:00:00",
+  "HIGH": 2.32,
+  "LOW": 2.32
+ },
+ {
+  "OPEN": 2.35,
+  "VALUE": 117500.0,
+  "CLOSE": 2.35,
+  "CHART_DATE": "Sep 28, 2011 00:00:00",
+  "HIGH": 2.35,
+  "LOW": 2.35
+ },
+ {
+  "OPEN": 2.38,
+  "VALUE": 286800.0,
+  "CLOSE": 2.4,
+  "CHART_DATE": "Oct 12, 2011 00:00:00",
+  "HIGH": 2.4,
+  "LOW": 2.38
+ },
+ {
+  "OPEN": 2.35,
+  "VALUE": 80250.0,
+  "CLOSE": 2.44,
+  "CHART_DATE": "Oct 13, 2011 00:00:00",
+  "HIGH": 2.44,
+  "LOW": 2.35
+ },
+ {
+  "OPEN": 2.48,
+  "VALUE": 133920.0,
+  "CLOSE": 2.48,
+  "CHART_DATE": "Oct 14, 2011 00:00:00",
+  "HIGH": 2.48,
+  "LOW": 2.48
+ },
+ {
+  "OPEN": 2.45,
+  "VALUE": 19600.0,
+  "CLOSE": 2.45,
+  "CHART_DATE": "Oct 18, 2011 00:00:00",
+  "HIGH": 2.45,
+  "LOW": 2.45
+ },
+ {
+  "OPEN": 2.52,
+  "VALUE": 75600.0,
+  "CLOSE": 2.52,
+  "CHART_DATE": "Oct 19, 2011 00:00:00",
+  "HIGH": 2.52,
+  "LOW": 2.52
+ },
+ {
+  "OPEN": 2.56,
+  "VALUE": 115200.0,
+  "CLOSE": 2.56,
+  "CHART_DATE": "Oct 20, 2011 00:00:00",
+  "HIGH": 2.56,
+  "LOW": 2.56
+ },
+ {
+  "OPEN": 2.58,
+  "VALUE": 233900.0,
+  "CLOSE": 2.65,
+  "CHART_DATE": "Oct 28, 2011 00:00:00",
+  "HIGH": 2.65,
+  "LOW": 2.58
+ },
+ {
+  "OPEN": 2.65,
+  "VALUE": 45050.0,
+  "CLOSE": 2.65,
+  "CHART_DATE": "Nov 09, 2011 00:00:00",
+  "HIGH": 2.65,
+  "LOW": 2.65
+ },
+ {
+  "OPEN": 2.75,
+  "VALUE": 137500.0,
+  "CLOSE": 2.75,
+  "CHART_DATE": "Nov 14, 2011 00:00:00",
+  "HIGH": 2.75,
+  "LOW": 2.75
+ },
+ {
+  "OPEN": 2.6,
+  "VALUE": 26000.0,
+  "CLOSE": 2.6,
+  "CHART_DATE": "Nov 22, 2011 00:00:00",
+  "HIGH": 2.6,
+  "LOW": 2.6
+ },
+ {
+  "OPEN": 2.6,
+  "VALUE": 39000.0,
+  "CLOSE": 2.6,
+  "CHART_DATE": "Nov 29, 2011 00:00:00",
+  "HIGH": 2.6,
+  "LOW": 2.6
+ },
+ {
+  "OPEN": 2.65,
+  "VALUE": 126040.0,
+  "CLOSE": 3.8,
+  "CHART_DATE": "Dec 01, 2011 00:00:00",
+  "HIGH": 3.9,
+  "LOW": 2.65
+ },
+ {
+  "OPEN": 3.8,
+  "VALUE": 3800.0,
+  "CLOSE": 3.8,
+  "CHART_DATE": "Dec 02, 2011 00:00:00",
+  "HIGH": 3.8,
+  "LOW": 3.8
+ },
+ {
+  "OPEN": 2.4,
+  "VALUE": 4800.0,
+  "CLOSE": 2.4,
+  "CHART_DATE": "Dec 08, 2011 00:00:00",
+  "HIGH": 2.4,
+  "LOW": 2.4
+ },
+ {
+  "OPEN": 2.4,
+  "VALUE": 77500.0,
+  "CLOSE": 2.95,
+  "CHART_DATE": "Dec 15, 2011 00:00:00",
+  "HIGH": 2.95,
+  "LOW": 2.4
+ },
+ {
+  "OPEN": 2.8,
+  "VALUE": 5600.0,
+  "CLOSE": 2.8,
+  "CHART_DATE": "Dec 26, 2011 00:00:00",
+  "HIGH": 2.8,
+  "LOW": 2.8
+ },
+ {
+  "OPEN": 2.5,
+  "VALUE": 72500.0,
+  "CLOSE": 2.5,
+  "CHART_DATE": "Jan 04, 2012 00:00:00",
+  "HIGH": 2.5,
+  "LOW": 2.5
+ },
+ {
+  "OPEN": 2.8,
+  "VALUE": 2800.0,
+  "CLOSE": 2.8,
+  "CHART_DATE": "Jan 11, 2012 00:00:00",
+  "HIGH": 2.8,
+  "LOW": 2.8
+ },
+ {
+  "OPEN": 2.95,
+  "VALUE": 103250.0,
+  "CLOSE": 2.95,
+  "CHART_DATE": "Jan 26, 2012 00:00:00",
+  "HIGH": 2.95,
+  "LOW": 2.95
+ },
+ {
+  "OPEN": 2.95,
+  "VALUE": 17700.0,
+  "CLOSE": 2.95,
+  "CHART_DATE": "Jan 31, 2012 00:00:00",
+  "HIGH": 2.95,
+  "LOW": 2.95
+ },
+ {
+  "OPEN": 3.05,
+  "VALUE": 109800.0,
+  "CLOSE": 3.05,
+  "CHART_DATE": "Feb 03, 2012 00:00:00",
+  "HIGH": 3.05,
+  "LOW": 3.05
+ },
+ {
+  "OPEN": 3.05,
+  "VALUE": 644100.0,
+  "CLOSE": 3.05,
+  "CHART_DATE": "Feb 06, 2012 00:00:00",
+  "HIGH": 3.3,
+  "LOW": 3.05
+ },
+ {
+  "OPEN": 2.8,
+  "VALUE": 8400.0,
+  "CLOSE": 2.8,
+  "CHART_DATE": "Feb 07, 2012 00:00:00",
+  "HIGH": 2.8,
+  "LOW": 2.8
+ },
+ {
+  "OPEN": 2.9,
+  "VALUE": 14500.0,
+  "CLOSE": 2.9,
+  "CHART_DATE": "Feb 08, 2012 00:00:00",
+  "HIGH": 2.9,
+  "LOW": 2.9
+ },
+ {
+  "OPEN": 2.9,
+  "VALUE": 78300.0,
+  "CLOSE": 2.9,
+  "CHART_DATE": "Feb 09, 2012 00:00:00",
+  "HIGH": 2.9,
+  "LOW": 2.9
+ },
+ {
+  "OPEN": 3.1,
+  "VALUE": 46500.0,
+  "CLOSE": 3.1,
+  "CHART_DATE": "Feb 10, 2012 00:00:00",
+  "HIGH": 3.1,
+  "LOW": 3.1
+ },
+ {
+  "OPEN": 3.1,
+  "VALUE": 6200.0,
+  "CLOSE": 3.1,
+  "CHART_DATE": "Feb 13, 2012 00:00:00",
+  "HIGH": 3.1,
+  "LOW": 3.1
+ },
+ {
+  "OPEN": 3.15,
+  "VALUE": 277300.0,
+  "CLOSE": 3.45,
+  "CHART_DATE": "Feb 15, 2012 00:00:00",
+  "HIGH": 3.45,
+  "LOW": 3.15
+ },
+ {
+  "OPEN": 3.6,
+  "VALUE": 457030.0,
+  "CLOSE": 3.81,
+  "CHART_DATE": "Feb 16, 2012 00:00:00",
+  "HIGH": 4.4,
+  "LOW": 3.6
+ },
+ {
+  "OPEN": 4.0,
+  "VALUE": 259500.0,
+  "CLOSE": 4.1,
+  "CHART_DATE": "Feb 17, 2012 00:00:00",
+  "HIGH": 4.3,
+  "LOW": 4.0
+ },
+ {
+  "OPEN": 4.1,
+  "VALUE": 1179080.0,
+  "CLOSE": 4.35,
+  "CHART_DATE": "Feb 20, 2012 00:00:00",
+  "HIGH": 4.35,
+  "LOW": 4.1
+ },
+ {
+  "OPEN": 4.8,
+  "VALUE": 428050.0,
+  "CLOSE": 4.95,
+  "CHART_DATE": "Feb 21, 2012 00:00:00",
+  "HIGH": 4.95,
+  "LOW": 4.8
+ },
+ {
+  "OPEN": 4.4,
+  "VALUE": 227350.0,
+  "CLOSE": 4.98,
+  "CHART_DATE": "Feb 22, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 4.4
+ },
+ {
+  "OPEN": 4.0,
+  "VALUE": 8000.0,
+  "CLOSE": 4.0,
+  "CHART_DATE": "Feb 23, 2012 00:00:00",
+  "HIGH": 4.0,
+  "LOW": 4.0
+ },
+ {
+  "OPEN": 4.0,
+  "VALUE": 40000.0,
+  "CLOSE": 4.0,
+  "CHART_DATE": "Mar 01, 2012 00:00:00",
+  "HIGH": 4.0,
+  "LOW": 4.0
+ },
+ {
+  "OPEN": 4.25,
+  "VALUE": 127500.0,
+  "CLOSE": 4.25,
+  "CHART_DATE": "Mar 02, 2012 00:00:00",
+  "HIGH": 4.25,
+  "LOW": 4.25
+ },
+ {
+  "OPEN": 4.5,
+  "VALUE": 27500.0,
+  "CLOSE": 4.6,
+  "CHART_DATE": "Mar 06, 2012 00:00:00",
+  "HIGH": 4.6,
+  "LOW": 4.5
+ },
+ {
+  "OPEN": 4.6,
+  "VALUE": 161000.0,
+  "CLOSE": 4.6,
+  "CHART_DATE": "Mar 07, 2012 00:00:00",
+  "HIGH": 4.6,
+  "LOW": 4.6
+ },
+ {
+  "OPEN": 4.6,
+  "VALUE": 720400.0,
+  "CLOSE": 4.6,
+  "CHART_DATE": "Mar 09, 2012 00:00:00",
+  "HIGH": 4.6,
+  "LOW": 4.4
+ },
+ {
+  "OPEN": 4.6,
+  "VALUE": 197800.0,
+  "CLOSE": 4.6,
+  "CHART_DATE": "Mar 12, 2012 00:00:00",
+  "HIGH": 4.6,
+  "LOW": 4.6
+ },
+ {
+  "OPEN": 4.6,
+  "VALUE": 106000.0,
+  "CLOSE": 4.61,
+  "CHART_DATE": "Mar 13, 2012 00:00:00",
+  "HIGH": 4.61,
+  "LOW": 4.6
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 98000.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Mar 14, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 5.05,
+  "VALUE": 151500.0,
+  "CLOSE": 5.05,
+  "CHART_DATE": "Mar 15, 2012 00:00:00",
+  "HIGH": 5.05,
+  "LOW": 5.05
+ },
+ {
+  "OPEN": 4.8,
+  "VALUE": 24000.0,
+  "CLOSE": 4.8,
+  "CHART_DATE": "Mar 19, 2012 00:00:00",
+  "HIGH": 4.8,
+  "LOW": 4.8
+ },
+ {
+  "OPEN": 4.81,
+  "VALUE": 139890.0,
+  "CLOSE": 4.85,
+  "CHART_DATE": "Mar 20, 2012 00:00:00",
+  "HIGH": 4.85,
+  "LOW": 4.81
+ },
+ {
+  "OPEN": 4.8,
+  "VALUE": 96000.0,
+  "CLOSE": 4.8,
+  "CHART_DATE": "Mar 22, 2012 00:00:00",
+  "HIGH": 4.8,
+  "LOW": 4.8
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 11000.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Mar 27, 2012 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 15120.0,
+  "CLOSE": 5.3,
+  "CHART_DATE": "Mar 28, 2012 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 4.8,
+  "VALUE": 4800.0,
+  "CLOSE": 4.8,
+  "CHART_DATE": "Mar 29, 2012 00:00:00",
+  "HIGH": 4.8,
+  "LOW": 4.8
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 5600.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Mar 30, 2012 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 82000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Apr 02, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 7840.000000000001,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Apr 03, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 102000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Apr 12, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 306000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Apr 13, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 102000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Apr 16, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 149000.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Apr 17, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 147000.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Apr 19, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.8,
+  "VALUE": 103710.0,
+  "CLOSE": 4.71,
+  "CHART_DATE": "Apr 24, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 4.71
+ },
+ {
+  "OPEN": 4.71,
+  "VALUE": 910300.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Apr 26, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 4.71
+ },
+ {
+  "OPEN": 4.95,
+  "VALUE": 294100.0,
+  "CLOSE": 4.71,
+  "CHART_DATE": "Apr 27, 2012 00:00:00",
+  "HIGH": 4.95,
+  "LOW": 4.71
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 686500.0,
+  "CLOSE": 5.3,
+  "CHART_DATE": "Apr 30, 2012 00:00:00",
+  "HIGH": 5.3,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 383430.0,
+  "CLOSE": 5.2,
+  "CHART_DATE": "May 03, 2012 00:00:00",
+  "HIGH": 5.2,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 50000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "May 08, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 400000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "May 09, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 195000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "May 10, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 200000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "May 11, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 13000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "May 14, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.91,
+  "VALUE": 16694.0,
+  "CLOSE": 4.91,
+  "CHART_DATE": "May 15, 2012 00:00:00",
+  "HIGH": 4.91,
+  "LOW": 4.91
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 215600.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "May 16, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 147000.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "May 30, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 9800.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "May 31, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 150000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Jun 08, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 38500.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Jun 13, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 441000.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Jun 21, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.86,
+  "VALUE": 97200.0,
+  "CLOSE": 4.86,
+  "CHART_DATE": "Jun 22, 2012 00:00:00",
+  "HIGH": 4.86,
+  "LOW": 4.86
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 500000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Jun 27, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 150000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Jul 13, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.86,
+  "VALUE": 4374.0,
+  "CLOSE": 4.86,
+  "CHART_DATE": "Jul 16, 2012 00:00:00",
+  "HIGH": 4.86,
+  "LOW": 4.86
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 150000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Jul 18, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.86,
+  "VALUE": 589800.0,
+  "CLOSE": 5.02,
+  "CHART_DATE": "Jul 27, 2012 00:00:00",
+  "HIGH": 5.02,
+  "LOW": 4.86
+ },
+ {
+  "OPEN": 4.91,
+  "VALUE": 4419.0,
+  "CLOSE": 4.91,
+  "CHART_DATE": "Jul 30, 2012 00:00:00",
+  "HIGH": 4.91,
+  "LOW": 4.91
+ },
+ {
+  "OPEN": 4.86,
+  "VALUE": 444600.0,
+  "CLOSE": 5.04,
+  "CHART_DATE": "Aug 02, 2012 00:00:00",
+  "HIGH": 5.04,
+  "LOW": 4.86
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 142100.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Aug 06, 2012 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 297000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Aug 09, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 113000.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Aug 10, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 250000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Aug 31, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 100000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Sep 04, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 102000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Oct 15, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 484500.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Nov 13, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 51000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Nov 14, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 103960.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Nov 15, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 153000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Nov 20, 2012 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 2500.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Dec 18, 2012 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 204000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Jan 04, 2013 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 114240.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Jan 07, 2013 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 980.0000000000001,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Jan 16, 2013 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 4900.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Jan 21, 2013 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 19600.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Jan 22, 2013 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.9,
+  "VALUE": 4900.0,
+  "CLOSE": 4.9,
+  "CHART_DATE": "Jan 29, 2013 00:00:00",
+  "HIGH": 4.9,
+  "LOW": 4.9
+ },
+ {
+  "OPEN": 4.81,
+  "VALUE": 57719.99999999999,
+  "CLOSE": 4.81,
+  "CHART_DATE": "Feb 01, 2013 00:00:00",
+  "HIGH": 4.81,
+  "LOW": 4.81
+ },
+ {
+  "OPEN": 4.81,
+  "VALUE": 14430.0,
+  "CLOSE": 4.81,
+  "CHART_DATE": "Feb 04, 2013 00:00:00",
+  "HIGH": 4.81,
+  "LOW": 4.81
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 255000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Feb 06, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 152000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Feb 11, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 100000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Feb 12, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 500000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Feb 15, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.81,
+  "VALUE": 57238.99999999999,
+  "CLOSE": 4.81,
+  "CHART_DATE": "Feb 18, 2013 00:00:00",
+  "HIGH": 4.81,
+  "LOW": 4.81
+ },
+ {
+  "OPEN": 4.7,
+  "VALUE": 606300.0,
+  "CLOSE": 4.7,
+  "CHART_DATE": "Mar 25, 2013 00:00:00",
+  "HIGH": 4.7,
+  "LOW": 4.7
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 117300.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Apr 22, 2013 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.05,
+  "VALUE": 249209.0,
+  "CLOSE": 4.91,
+  "CHART_DATE": "Apr 25, 2013 00:00:00",
+  "HIGH": 5.05,
+  "LOW": 4.91
+ },
+ {
+  "OPEN": 5.2,
+  "VALUE": 166500.0,
+  "CLOSE": 5.25,
+  "CHART_DATE": "May 06, 2013 00:00:00",
+  "HIGH": 5.25,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 84150.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "May 22, 2013 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 168000.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Jun 04, 2013 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.2,
+  "VALUE": 81640.0,
+  "CLOSE": 5.2,
+  "CHART_DATE": "Jun 26, 2013 00:00:00",
+  "HIGH": 5.2,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 5.2,
+  "VALUE": 156000.0,
+  "CLOSE": 5.2,
+  "CHART_DATE": "Jun 28, 2013 00:00:00",
+  "HIGH": 5.2,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 5.2,
+  "VALUE": 78000.0,
+  "CLOSE": 5.2,
+  "CHART_DATE": "Jul 01, 2013 00:00:00",
+  "HIGH": 5.2,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 5.3,
+  "VALUE": 596250.0,
+  "CLOSE": 5.3,
+  "CHART_DATE": "Jul 09, 2013 00:00:00",
+  "HIGH": 5.3,
+  "LOW": 5.3
+ },
+ {
+  "OPEN": 5.2,
+  "VALUE": 31200.0,
+  "CLOSE": 5.2,
+  "CHART_DATE": "Jul 10, 2013 00:00:00",
+  "HIGH": 5.2,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 76500.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Aug 01, 2013 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 500000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Sep 12, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 51000.0,
+  "CLOSE": 5.1,
+  "CHART_DATE": "Sep 20, 2013 00:00:00",
+  "HIGH": 5.1,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 4.0,
+  "VALUE": 36000.0,
+  "CLOSE": 4.0,
+  "CHART_DATE": "Oct 30, 2013 00:00:00",
+  "HIGH": 4.0,
+  "LOW": 4.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 45000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Oct 31, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 100000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Nov 11, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 475000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Dec 03, 2013 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.6,
+  "VALUE": 1839.9999999999998,
+  "CLOSE": 4.6,
+  "CHART_DATE": "Jan 20, 2014 00:00:00",
+  "HIGH": 4.6,
+  "LOW": 4.6
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 250000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Feb 18, 2014 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 4.6,
+  "VALUE": 86020.0,
+  "CLOSE": 4.6,
+  "CHART_DATE": "Feb 21, 2014 00:00:00",
+  "HIGH": 4.6,
+  "LOW": 4.6
+ },
+ {
+  "OPEN": 5.2,
+  "VALUE": 104000.0,
+  "CLOSE": 5.2,
+  "CHART_DATE": "Mar 05, 2014 00:00:00",
+  "HIGH": 5.2,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 5.2,
+  "VALUE": 104000.0,
+  "CLOSE": 5.2,
+  "CHART_DATE": "Mar 20, 2014 00:00:00",
+  "HIGH": 5.2,
+  "LOW": 5.2
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 550.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Apr 04, 2014 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 50000.0,
+  "CLOSE": 5.0,
+  "CHART_DATE": "Apr 16, 2014 00:00:00",
+  "HIGH": 5.0,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.4,
+  "VALUE": 1080.0,
+  "CLOSE": 5.4,
+  "CHART_DATE": "Apr 21, 2014 00:00:00",
+  "HIGH": 5.4,
+  "LOW": 5.4
+ },
+ {
+  "OPEN": 5.0,
+  "VALUE": 51620.0,
+  "CLOSE": 5.4,
+  "CHART_DATE": "May 09, 2014 00:00:00",
+  "HIGH": 5.4,
+  "LOW": 5.0
+ },
+ {
+  "OPEN": 5.4,
+  "VALUE": 37800.0,
+  "CLOSE": 5.4,
+  "CHART_DATE": "May 29, 2014 00:00:00",
+  "HIGH": 5.4,
+  "LOW": 5.4
+ },
+ {
+  "OPEN": 5.4,
+  "VALUE": 177950.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "May 30, 2014 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.4
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 507420.0,
+  "CLOSE": 5.7,
+  "CHART_DATE": "Jun 02, 2014 00:00:00",
+  "HIGH": 6.7,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.1,
+  "VALUE": 223329.0,
+  "CLOSE": 5.42,
+  "CHART_DATE": "Jun 03, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 5.1
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 106500.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Jun 04, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.3,
+  "VALUE": 15850.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jun 05, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 5.3
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 318000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jun 10, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 5.4,
+  "VALUE": 540.0,
+  "CLOSE": 5.4,
+  "CHART_DATE": "Jun 11, 2014 00:00:00",
+  "HIGH": 5.4,
+  "LOW": 5.4
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 16500.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Jun 17, 2014 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 110000.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Jun 19, 2014 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 6.2,
+  "VALUE": 6820.0,
+  "CLOSE": 6.2,
+  "CHART_DATE": "Jun 24, 2014 00:00:00",
+  "HIGH": 6.2,
+  "LOW": 6.2
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 77470.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jun 26, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 177600.0,
+  "CLOSE": 6.15,
+  "CHART_DATE": "Jun 27, 2014 00:00:00",
+  "HIGH": 6.15,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 18300.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jul 01, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 65400.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jul 02, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 120000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jul 04, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.15,
+  "VALUE": 615.0,
+  "CLOSE": 6.15,
+  "CHART_DATE": "Jul 07, 2014 00:00:00",
+  "HIGH": 6.15,
+  "LOW": 6.15
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 121390.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jul 11, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 60000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jul 17, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 61000.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jul 22, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 42700.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jul 23, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 610000.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jul 24, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 357780.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jul 25, 2014 00:00:00",
+  "HIGH": 6.4,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 5.7,
+  "VALUE": 57000.0,
+  "CLOSE": 5.7,
+  "CHART_DATE": "Aug 18, 2014 00:00:00",
+  "HIGH": 5.7,
+  "LOW": 5.7
+ },
+ {
+  "OPEN": 6.15,
+  "VALUE": 18450.0,
+  "CLOSE": 6.15,
+  "CHART_DATE": "Aug 20, 2014 00:00:00",
+  "HIGH": 6.15,
+  "LOW": 6.15
+ },
+ {
+  "OPEN": 6.15,
+  "VALUE": 61500.0,
+  "CLOSE": 6.15,
+  "CHART_DATE": "Aug 22, 2014 00:00:00",
+  "HIGH": 6.15,
+  "LOW": 6.15
+ },
+ {
+  "OPEN": 6.15,
+  "VALUE": 36900.0,
+  "CLOSE": 6.15,
+  "CHART_DATE": "Aug 26, 2014 00:00:00",
+  "HIGH": 6.15,
+  "LOW": 6.15
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 92115.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Sep 01, 2014 00:00:00",
+  "HIGH": 6.15,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 5.7,
+  "VALUE": 269890.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Sep 02, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 5.7
+ },
+ {
+  "OPEN": 5.7,
+  "VALUE": 148500.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Sep 03, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 5.7
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 122000.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Sep 11, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 6100.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Sep 15, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 183000.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Sep 18, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.13,
+  "VALUE": 604028.0,
+  "CLOSE": 6.16,
+  "CHART_DATE": "Sep 30, 2014 00:00:00",
+  "HIGH": 6.16,
+  "LOW": 6.13
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 61000.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Oct 27, 2014 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 5.7,
+  "VALUE": 113430.0,
+  "CLOSE": 5.7,
+  "CHART_DATE": "Nov 13, 2014 00:00:00",
+  "HIGH": 5.7,
+  "LOW": 5.7
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 3000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Nov 17, 2014 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 5.41,
+  "VALUE": 108200.0,
+  "CLOSE": 5.41,
+  "CHART_DATE": "Dec 29, 2014 00:00:00",
+  "HIGH": 5.41,
+  "LOW": 5.41
+ },
+ {
+  "OPEN": 6.2,
+  "VALUE": 9920.0,
+  "CLOSE": 6.2,
+  "CHART_DATE": "Jan 12, 2015 00:00:00",
+  "HIGH": 6.2,
+  "LOW": 6.2
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 660.0,
+  "CLOSE": 6.6,
+  "CHART_DATE": "Jan 13, 2015 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.6
+ },
+ {
+  "OPEN": 6.56,
+  "VALUE": 9840.0,
+  "CLOSE": 6.56,
+  "CHART_DATE": "Feb 06, 2015 00:00:00",
+  "HIGH": 6.56,
+  "LOW": 6.56
+ },
+ {
+  "OPEN": 6.22,
+  "VALUE": 622.0,
+  "CLOSE": 6.22,
+  "CHART_DATE": "Feb 10, 2015 00:00:00",
+  "HIGH": 6.22,
+  "LOW": 6.22
+ },
+ {
+  "OPEN": 6.3,
+  "VALUE": 126000.0,
+  "CLOSE": 6.3,
+  "CHART_DATE": "Feb 26, 2015 00:00:00",
+  "HIGH": 6.3,
+  "LOW": 6.3
+ },
+ {
+  "OPEN": 6.03,
+  "VALUE": 5427.0,
+  "CLOSE": 6.03,
+  "CHART_DATE": "Feb 27, 2015 00:00:00",
+  "HIGH": 6.03,
+  "LOW": 6.03
+ },
+ {
+  "OPEN": 6.03,
+  "VALUE": 603.0,
+  "CLOSE": 6.03,
+  "CHART_DATE": "Mar 02, 2015 00:00:00",
+  "HIGH": 6.03,
+  "LOW": 6.03
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 610.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Mar 05, 2015 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 6.2,
+  "VALUE": 226175.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Mar 20, 2015 00:00:00",
+  "HIGH": 6.2,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 166880.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Mar 25, 2015 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 1131000.0,
+  "CLOSE": 5.8,
+  "CHART_DATE": "Mar 27, 2015 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 6.49,
+  "VALUE": 1298.0,
+  "CLOSE": 6.49,
+  "CHART_DATE": "Mar 31, 2015 00:00:00",
+  "HIGH": 6.49,
+  "LOW": 6.49
+ },
+ {
+  "OPEN": 6.49,
+  "VALUE": 44032.0,
+  "CLOSE": 6.2,
+  "CHART_DATE": "Apr 01, 2015 00:00:00",
+  "HIGH": 6.49,
+  "LOW": 5.71
+ },
+ {
+  "OPEN": 6.49,
+  "VALUE": 8437.0,
+  "CLOSE": 6.49,
+  "CHART_DATE": "Apr 08, 2015 00:00:00",
+  "HIGH": 6.49,
+  "LOW": 6.49
+ },
+ {
+  "OPEN": 6.48,
+  "VALUE": 5184.0,
+  "CLOSE": 6.48,
+  "CHART_DATE": "Apr 14, 2015 00:00:00",
+  "HIGH": 6.48,
+  "LOW": 6.48
+ },
+ {
+  "OPEN": 6.49,
+  "VALUE": 9735.0,
+  "CLOSE": 6.49,
+  "CHART_DATE": "Apr 22, 2015 00:00:00",
+  "HIGH": 6.49,
+  "LOW": 6.49
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 3000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Apr 28, 2015 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 650.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "May 04, 2015 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.5
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 601220.0,
+  "CLOSE": 6.45,
+  "CHART_DATE": "May 06, 2015 00:00:00",
+  "HIGH": 6.45,
+  "LOW": 5.75
+ },
+ {
+  "OPEN": 6.45,
+  "VALUE": 1290.0,
+  "CLOSE": 6.45,
+  "CHART_DATE": "May 08, 2015 00:00:00",
+  "HIGH": 6.45,
+  "LOW": 6.45
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 580.0,
+  "CLOSE": 5.8,
+  "CHART_DATE": "May 15, 2015 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 6.4,
+  "VALUE": 640.0,
+  "CLOSE": 6.4,
+  "CHART_DATE": "May 19, 2015 00:00:00",
+  "HIGH": 6.4,
+  "LOW": 6.4
+ },
+ {
+  "OPEN": 5.88,
+  "VALUE": 5880.0,
+  "CLOSE": 5.88,
+  "CHART_DATE": "Jun 03, 2015 00:00:00",
+  "HIGH": 5.88,
+  "LOW": 5.88
+ },
+ {
+  "OPEN": 5.62,
+  "VALUE": 562.0,
+  "CLOSE": 5.62,
+  "CHART_DATE": "Jun 17, 2015 00:00:00",
+  "HIGH": 5.62,
+  "LOW": 5.62
+ },
+ {
+  "OPEN": 6.3,
+  "VALUE": 6300.0,
+  "CLOSE": 6.3,
+  "CHART_DATE": "Jun 18, 2015 00:00:00",
+  "HIGH": 6.3,
+  "LOW": 6.3
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 581280.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Jun 24, 2015 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 7800.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Jun 30, 2015 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.5
+ },
+ {
+  "OPEN": 6.48,
+  "VALUE": 72754.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Aug 27, 2015 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.48
+ },
+ {
+  "OPEN": 6.4,
+  "VALUE": 1240.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Sep 18, 2015 00:00:00",
+  "HIGH": 6.4,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 9583.0,
+  "CLOSE": 5.83,
+  "CHART_DATE": "Nov 05, 2015 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 5.83
+ },
+ {
+  "OPEN": 5.85,
+  "VALUE": 117000.0,
+  "CLOSE": 5.85,
+  "CHART_DATE": "Nov 09, 2015 00:00:00",
+  "HIGH": 5.85,
+  "LOW": 5.85
+ },
+ {
+  "OPEN": 5.85,
+  "VALUE": 65520.0,
+  "CLOSE": 5.85,
+  "CHART_DATE": "Dec 08, 2015 00:00:00",
+  "HIGH": 5.85,
+  "LOW": 5.85
+ },
+ {
+  "OPEN": 5.01,
+  "VALUE": 34569.0,
+  "CLOSE": 5.01,
+  "CHART_DATE": "Dec 11, 2015 00:00:00",
+  "HIGH": 5.01,
+  "LOW": 5.01
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 60000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Dec 29, 2015 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 1200.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jan 19, 2016 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 54765.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Feb 02, 2016 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.99,
+  "VALUE": 1797.0,
+  "CLOSE": 5.99,
+  "CHART_DATE": "Feb 22, 2016 00:00:00",
+  "HIGH": 5.99,
+  "LOW": 5.99
+ },
+ {
+  "OPEN": 5.64,
+  "VALUE": 551195.0,
+  "CLOSE": 5.51,
+  "CHART_DATE": "Apr 04, 2016 00:00:00",
+  "HIGH": 5.64,
+  "LOW": 5.51
+ },
+ {
+  "OPEN": 5.51,
+  "VALUE": 551.0,
+  "CLOSE": 5.51,
+  "CHART_DATE": "Apr 19, 2016 00:00:00",
+  "HIGH": 5.51,
+  "LOW": 5.51
+ },
+ {
+  "OPEN": 5.99,
+  "VALUE": 23971.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Apr 22, 2016 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 5.99
+ },
+ {
+  "OPEN": 5.43,
+  "VALUE": 54300.0,
+  "CLOSE": 5.43,
+  "CHART_DATE": "Apr 25, 2016 00:00:00",
+  "HIGH": 5.43,
+  "LOW": 5.43
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 55000.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Apr 26, 2016 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 1800.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Apr 27, 2016 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 5.41,
+  "VALUE": 1082.0,
+  "CLOSE": 5.41,
+  "CHART_DATE": "May 05, 2016 00:00:00",
+  "HIGH": 5.41,
+  "LOW": 5.41
+ },
+ {
+  "OPEN": 5.61,
+  "VALUE": 5610.0,
+  "CLOSE": 5.61,
+  "CHART_DATE": "May 16, 2016 00:00:00",
+  "HIGH": 5.61,
+  "LOW": 5.61
+ },
+ {
+  "OPEN": 5.73,
+  "VALUE": 326610.0,
+  "CLOSE": 5.73,
+  "CHART_DATE": "May 31, 2016 00:00:00",
+  "HIGH": 5.73,
+  "LOW": 5.73
+ },
+ {
+  "OPEN": 5.73,
+  "VALUE": 573.0,
+  "CLOSE": 5.73,
+  "CHART_DATE": "Jun 06, 2016 00:00:00",
+  "HIGH": 5.73,
+  "LOW": 5.73
+ },
+ {
+  "OPEN": 5.98,
+  "VALUE": 598.0,
+  "CLOSE": 5.98,
+  "CHART_DATE": "Jun 07, 2016 00:00:00",
+  "HIGH": 5.98,
+  "LOW": 5.98
+ },
+ {
+  "OPEN": 5.74,
+  "VALUE": 79088.0,
+  "CLOSE": 5.73,
+  "CHART_DATE": "Jun 13, 2016 00:00:00",
+  "HIGH": 5.74,
+  "LOW": 5.73
+ },
+ {
+  "OPEN": 5.45,
+  "VALUE": 545.0,
+  "CLOSE": 5.45,
+  "CHART_DATE": "Jun 23, 2016 00:00:00",
+  "HIGH": 5.45,
+  "LOW": 5.45
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 9280.0,
+  "CLOSE": 5.8,
+  "CHART_DATE": "Jul 20, 2016 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 11600.0,
+  "CLOSE": 5.8,
+  "CHART_DATE": "Jul 28, 2016 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 554960.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Aug 01, 2016 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 7108080.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Aug 15, 2016 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 50400.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Aug 17, 2016 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 336142.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Aug 19, 2016 00:00:00",
+  "HIGH": 5.99,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 1120000.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Aug 22, 2016 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 33000.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Aug 23, 2016 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 280000.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Aug 24, 2016 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 644000.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Aug 25, 2016 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 109450.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Sep 05, 2016 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 109450.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Sep 05, 2016 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 550.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Sep 20, 2016 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 550.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Sep 30, 2016 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.99,
+  "VALUE": 10782.0,
+  "CLOSE": 5.99,
+  "CHART_DATE": "Nov 21, 2016 00:00:00",
+  "HIGH": 5.99,
+  "LOW": 5.99
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 242520.0,
+  "CLOSE": 5.4,
+  "CHART_DATE": "Jan 27, 2017 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.4
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 31320.0,
+  "CLOSE": 5.8,
+  "CHART_DATE": "Feb 10, 2017 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 31320.0,
+  "CLOSE": 5.8,
+  "CHART_DATE": "Feb 10, 2017 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 5.92,
+  "VALUE": 10656.0,
+  "CLOSE": 5.92,
+  "CHART_DATE": "Mar 02, 2017 00:00:00",
+  "HIGH": 5.92,
+  "LOW": 5.92
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 56000.0,
+  "CLOSE": 5.6,
+  "CHART_DATE": "Mar 03, 2017 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.92,
+  "VALUE": 2368.0,
+  "CLOSE": 5.92,
+  "CHART_DATE": "Mar 08, 2017 00:00:00",
+  "HIGH": 5.92,
+  "LOW": 5.92
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 119152.0,
+  "CLOSE": 5.96,
+  "CHART_DATE": "Apr 21, 2017 00:00:00",
+  "HIGH": 5.96,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 5400.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "May 22, 2017 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 5.98,
+  "VALUE": 2392.0,
+  "CLOSE": 5.98,
+  "CHART_DATE": "Jun 22, 2017 00:00:00",
+  "HIGH": 5.98,
+  "LOW": 5.98
+ },
+ {
+  "OPEN": 5.7,
+  "VALUE": 23914.0,
+  "CLOSE": 5.97,
+  "CHART_DATE": "Jun 27, 2017 00:00:00",
+  "HIGH": 5.97,
+  "LOW": 5.66
+ },
+ {
+  "OPEN": 5.8,
+  "VALUE": 127882.0,
+  "CLOSE": 5.95,
+  "CHART_DATE": "Jul 17, 2017 00:00:00",
+  "HIGH": 5.95,
+  "LOW": 5.8
+ },
+ {
+  "OPEN": 5.72,
+  "VALUE": 181178.0,
+  "CLOSE": 5.97,
+  "CHART_DATE": "Jul 20, 2017 00:00:00",
+  "HIGH": 5.97,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 169733.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Jul 31, 2017 00:00:00",
+  "HIGH": 5.6,
+  "LOW": 5.41
+ },
+ {
+  "OPEN": 5.5,
+  "VALUE": 5500.0,
+  "CLOSE": 5.5,
+  "CHART_DATE": "Aug 01, 2017 00:00:00",
+  "HIGH": 5.5,
+  "LOW": 5.5
+ },
+ {
+  "OPEN": 5.97,
+  "VALUE": 597.0,
+  "CLOSE": 5.97,
+  "CHART_DATE": "Aug 17, 2017 00:00:00",
+  "HIGH": 5.97,
+  "LOW": 5.97
+ },
+ {
+  "OPEN": 5.4,
+  "VALUE": 32400.0,
+  "CLOSE": 5.4,
+  "CHART_DATE": "Aug 22, 2017 00:00:00",
+  "HIGH": 5.4,
+  "LOW": 5.4
+ },
+ {
+  "OPEN": 5.4,
+  "VALUE": 467780.0,
+  "CLOSE": 5.94,
+  "CHART_DATE": "Aug 31, 2017 00:00:00",
+  "HIGH": 5.94,
+  "LOW": 5.3
+ },
+ {
+  "OPEN": 5.94,
+  "VALUE": 1782.0,
+  "CLOSE": 5.94,
+  "CHART_DATE": "Sep 04, 2017 00:00:00",
+  "HIGH": 5.94,
+  "LOW": 5.94
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 42589.0,
+  "CLOSE": 5.89,
+  "CHART_DATE": "Sep 21, 2017 00:00:00",
+  "HIGH": 5.89,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.6,
+  "VALUE": 3447.0,
+  "CLOSE": 5.89,
+  "CHART_DATE": "Sep 22, 2017 00:00:00",
+  "HIGH": 5.89,
+  "LOW": 5.6
+ },
+ {
+  "OPEN": 5.81,
+  "VALUE": 2905.0,
+  "CLOSE": 5.81,
+  "CHART_DATE": "Oct 12, 2017 00:00:00",
+  "HIGH": 5.81,
+  "LOW": 5.81
+ },
+ {
+  "OPEN": 5.52,
+  "VALUE": 48293.0,
+  "CLOSE": 5.82,
+  "CHART_DATE": "Oct 18, 2017 00:00:00",
+  "HIGH": 5.82,
+  "LOW": 5.52
+ },
+ {
+  "OPEN": 5.53,
+  "VALUE": 12012.0,
+  "CLOSE": 5.8,
+  "CHART_DATE": "Oct 19, 2017 00:00:00",
+  "HIGH": 5.8,
+  "LOW": 5.53
+ },
+ {
+  "OPEN": 5.55,
+  "VALUE": 11397.0,
+  "CLOSE": 5.82,
+  "CHART_DATE": "Oct 24, 2017 00:00:00",
+  "HIGH": 5.82,
+  "LOW": 5.55
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 1182.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Dec 14, 2017 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 7200.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Dec 20, 2017 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 60000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Dec 27, 2017 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 48020.0,
+  "CLOSE": 6.2,
+  "CHART_DATE": "Dec 29, 2017 00:00:00",
+  "HIGH": 6.2,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 7320.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jan 09, 2018 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 5.69,
+  "VALUE": 8940.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Jan 10, 2018 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 5.69
+ },
+ {
+  "OPEN": 5.7,
+  "VALUE": 43728.0,
+  "CLOSE": 6.04,
+  "CHART_DATE": "Jan 24, 2018 00:00:00",
+  "HIGH": 6.04,
+  "LOW": 5.7
+ },
+ {
+  "OPEN": 5.66,
+  "VALUE": 7395.0,
+  "CLOSE": 6.03,
+  "CHART_DATE": "Feb 06, 2018 00:00:00",
+  "HIGH": 6.03,
+  "LOW": 5.66
+ },
+ {
+  "OPEN": 5.7,
+  "VALUE": 120133.0,
+  "CLOSE": 6.03,
+  "CHART_DATE": "Feb 13, 2018 00:00:00",
+  "HIGH": 6.03,
+  "LOW": 5.7
+ },
+ {
+  "OPEN": 5.76,
+  "VALUE": 576.0,
+  "CLOSE": 5.76,
+  "CHART_DATE": "Feb 15, 2018 00:00:00",
+  "HIGH": 5.76,
+  "LOW": 5.76
+ },
+ {
+  "OPEN": 6.03,
+  "VALUE": 242400.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Feb 23, 2018 00:00:00",
+  "HIGH": 6.03,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.1,
+  "VALUE": 118340.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Feb 26, 2018 00:00:00",
+  "HIGH": 6.1,
+  "LOW": 6.1
+ },
+ {
+  "OPEN": 8.0,
+  "VALUE": 1931146.0,
+  "CLOSE": 7.2,
+  "CHART_DATE": "Feb 27, 2018 00:00:00",
+  "HIGH": 9.15,
+  "LOW": 6.52
+ },
+ {
+  "OPEN": 7.5,
+  "VALUE": 591650.0,
+  "CLOSE": 7.0,
+  "CHART_DATE": "Feb 28, 2018 00:00:00",
+  "HIGH": 7.5,
+  "LOW": 6.5
+ },
+ {
+  "OPEN": 6.75,
+  "VALUE": 100165.0,
+  "CLOSE": 7.4,
+  "CHART_DATE": "Mar 01, 2018 00:00:00",
+  "HIGH": 7.4,
+  "LOW": 6.6
+ },
+ {
+  "OPEN": 7.0,
+  "VALUE": 59104.0,
+  "CLOSE": 6.36,
+  "CHART_DATE": "Mar 02, 2018 00:00:00",
+  "HIGH": 7.0,
+  "LOW": 6.32
+ },
+ {
+  "OPEN": 6.3,
+  "VALUE": 76110.0,
+  "CLOSE": 6.22,
+  "CHART_DATE": "Mar 05, 2018 00:00:00",
+  "HIGH": 6.3,
+  "LOW": 6.22
+ },
+ {
+  "OPEN": 6.12,
+  "VALUE": 45288.0,
+  "CLOSE": 6.12,
+  "CHART_DATE": "Mar 06, 2018 00:00:00",
+  "HIGH": 6.12,
+  "LOW": 6.12
+ },
+ {
+  "OPEN": 6.02,
+  "VALUE": 31906.0,
+  "CLOSE": 6.02,
+  "CHART_DATE": "Mar 07, 2018 00:00:00",
+  "HIGH": 6.02,
+  "LOW": 6.02
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 188970.0,
+  "CLOSE": 6.05,
+  "CHART_DATE": "Mar 08, 2018 00:00:00",
+  "HIGH": 6.05,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 96458.0,
+  "CLOSE": 6.2,
+  "CHART_DATE": "Mar 09, 2018 00:00:00",
+  "HIGH": 6.2,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 10500.0,
+  "CLOSE": 6.2,
+  "CHART_DATE": "Mar 12, 2018 00:00:00",
+  "HIGH": 6.2,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 69570.0,
+  "CLOSE": 6.1,
+  "CHART_DATE": "Mar 14, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.02
+ },
+ {
+  "OPEN": 6.32,
+  "VALUE": 586810.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Mar 15, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.32
+ },
+ {
+  "OPEN": 6.69,
+  "VALUE": 170607.0,
+  "CLOSE": 6.26,
+  "CHART_DATE": "Mar 19, 2018 00:00:00",
+  "HIGH": 6.99,
+  "LOW": 6.22
+ },
+ {
+  "OPEN": 6.05,
+  "VALUE": 48720.0,
+  "CLOSE": 6.13,
+  "CHART_DATE": "Mar 21, 2018 00:00:00",
+  "HIGH": 6.13,
+  "LOW": 6.05
+ },
+ {
+  "OPEN": 6.05,
+  "VALUE": 36300.0,
+  "CLOSE": 6.05,
+  "CHART_DATE": "Apr 06, 2018 00:00:00",
+  "HIGH": 6.05,
+  "LOW": 6.05
+ },
+ {
+  "OPEN": 6.05,
+  "VALUE": 5445.0,
+  "CLOSE": 6.05,
+  "CHART_DATE": "Apr 10, 2018 00:00:00",
+  "HIGH": 6.05,
+  "LOW": 6.05
+ },
+ {
+  "OPEN": 6.22,
+  "VALUE": 7464.0,
+  "CLOSE": 6.22,
+  "CHART_DATE": "Apr 16, 2018 00:00:00",
+  "HIGH": 6.22,
+  "LOW": 6.22
+ },
+ {
+  "OPEN": 6.4,
+  "VALUE": 41690.0,
+  "CLOSE": 6.42,
+  "CHART_DATE": "Apr 20, 2018 00:00:00",
+  "HIGH": 6.42,
+  "LOW": 6.4
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 101580.0,
+  "CLOSE": 6.3,
+  "CHART_DATE": "Apr 23, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.3
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 50570.0,
+  "CLOSE": 6.24,
+  "CHART_DATE": "Apr 24, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.24
+ },
+ {
+  "OPEN": 6.3,
+  "VALUE": 6930.0,
+  "CLOSE": 6.3,
+  "CHART_DATE": "Apr 25, 2018 00:00:00",
+  "HIGH": 6.3,
+  "LOW": 6.3
+ },
+ {
+  "OPEN": 6.25,
+  "VALUE": 6875.0,
+  "CLOSE": 6.25,
+  "CHART_DATE": "Apr 30, 2018 00:00:00",
+  "HIGH": 6.25,
+  "LOW": 6.25
+ },
+ {
+  "OPEN": 6.26,
+  "VALUE": 6260.0,
+  "CLOSE": 6.26,
+  "CHART_DATE": "May 04, 2018 00:00:00",
+  "HIGH": 6.26,
+  "LOW": 6.26
+ },
+ {
+  "OPEN": 6.28,
+  "VALUE": 628.0,
+  "CLOSE": 6.28,
+  "CHART_DATE": "May 08, 2018 00:00:00",
+  "HIGH": 6.28,
+  "LOW": 6.28
+ },
+ {
+  "OPEN": 6.3,
+  "VALUE": 77170.0,
+  "CLOSE": 6.3,
+  "CHART_DATE": "May 10, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.3
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 75300.0,
+  "CLOSE": 6.22,
+  "CHART_DATE": "May 11, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.22
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 660.0,
+  "CLOSE": 6.6,
+  "CHART_DATE": "May 15, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.6
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 3300.0,
+  "CLOSE": 6.6,
+  "CHART_DATE": "May 17, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.6
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 75300.0,
+  "CLOSE": 6.22,
+  "CHART_DATE": "May 18, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.22
+ },
+ {
+  "OPEN": 6.14,
+  "VALUE": 12894.0,
+  "CLOSE": 6.14,
+  "CHART_DATE": "May 21, 2018 00:00:00",
+  "HIGH": 6.14,
+  "LOW": 6.14
+ },
+ {
+  "OPEN": 6.16,
+  "VALUE": 12320.0,
+  "CLOSE": 6.16,
+  "CHART_DATE": "May 22, 2018 00:00:00",
+  "HIGH": 6.16,
+  "LOW": 6.16
+ },
+ {
+  "OPEN": 6.12,
+  "VALUE": 181405.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "May 24, 2018 00:00:00",
+  "HIGH": 6.12,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 600.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "May 25, 2018 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.59,
+  "VALUE": 74540.0,
+  "CLOSE": 6.6,
+  "CHART_DATE": "May 30, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.59
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 11428.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "May 31, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 5.81
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 12000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jun 04, 2018 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 1200.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jun 07, 2018 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 600.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jun 08, 2018 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 1800.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jun 13, 2018 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.0,
+  "VALUE": 6000.0,
+  "CLOSE": 6.0,
+  "CHART_DATE": "Jun 29, 2018 00:00:00",
+  "HIGH": 6.0,
+  "LOW": 6.0
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 7260.0,
+  "CLOSE": 6.6,
+  "CHART_DATE": "Jul 04, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.6
+ },
+ {
+  "OPEN": 6.6,
+  "VALUE": 21780.0,
+  "CLOSE": 6.6,
+  "CHART_DATE": "Jul 05, 2018 00:00:00",
+  "HIGH": 6.6,
+  "LOW": 6.6
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 582.0,
+  "CLOSE": 5.82,
+  "CHART_DATE": "Jul 09, 2018 00:00:00",
+  "HIGH": 5.82,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 582.0,
+  "CLOSE": 5.82,
+  "CHART_DATE": "Jul 16, 2018 00:00:00",
+  "HIGH": 5.82,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 2910.0,
+  "CLOSE": 5.82,
+  "CHART_DATE": "Jul 23, 2018 00:00:00",
+  "HIGH": 5.82,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 6402.0,
+  "CLOSE": 5.82,
+  "CHART_DATE": "Jul 24, 2018 00:00:00",
+  "HIGH": 5.82,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 17460.0,
+  "CLOSE": 5.82,
+  "CHART_DATE": "Jul 25, 2018 00:00:00",
+  "HIGH": 5.82,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 5.9,
+  "VALUE": 11800.0,
+  "CLOSE": 5.9,
+  "CHART_DATE": "Aug 09, 2018 00:00:00",
+  "HIGH": 5.9,
+  "LOW": 5.9
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 650.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Aug 15, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.5
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 12290.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Aug 29, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 1300.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Sep 05, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.5
+ },
+ {
+  "OPEN": 6.5,
+  "VALUE": 1300.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Sep 07, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 6.5
+ },
+ {
+  "OPEN": 5.82,
+  "VALUE": 1814.0,
+  "CLOSE": 6.5,
+  "CHART_DATE": "Sep 20, 2018 00:00:00",
+  "HIGH": 6.5,
+  "LOW": 5.82
+ },
+ {
+  "OPEN": 6.8,
+  "VALUE": 680.0,
+  "CLOSE": 6.8,
+  "CHART_DATE": "Nov 05, 2018 00:00:00",
+  "HIGH": 6.8,
+  "LOW": 6.8
+ }
+]
